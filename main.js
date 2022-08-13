@@ -39,7 +39,14 @@ let track_list = [
     image: "https://filedn.eu/lV0RcQd1Re5jQr5XL93Ntwm/2c7b873f66d3e7e68ac90fe5db09f861.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "https://filedn.eu/lV0RcQd1Re5jQr5XL93Ntwm/Plastic_Love_TABATA.mp3",
   },
+  {
+    name: "Better When You're Gone",
+    artist: "Tabata",
+    image: "https://filedn.eu/lV0RcQd1Re5jQr5XL93Ntwm/2c7b873f66d3e7e68ac90fe5db09f861.jpg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "https://filedn.eu/lV0RcQd1Re5jQr5XL93Ntwm/Better%20When%20Youre%20Gone_TABATA.mp3",
+  },
 ];
+
 
 function random_bg_color() {
 
